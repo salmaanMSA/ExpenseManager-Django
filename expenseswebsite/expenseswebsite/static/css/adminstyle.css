@@ -1,0 +1,15 @@
+
+element.style {
+}
+#container > div {
+    flex-shrink: 0;
+}
+#header {
+    background: rgb(81, 255, 0);
+    color: #ffc;
+    overflow: hidden;
+}
+
+#branding h1{
+    color: rgb(255, 51, 0);
+}
